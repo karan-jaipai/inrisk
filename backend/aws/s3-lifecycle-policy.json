@@ -1,0 +1,10 @@
+{
+  "Rules": [
+    {
+      "ID": "expire-weather-objects-after-7-days",
+      "Filter": {},
+      "Status": "Enabled",
+      "Expiration": { "Days": 7 }
+    }
+  ]
+}
